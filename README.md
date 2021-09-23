@@ -10,7 +10,7 @@
 ### Experience
 - 🎓 Seoul Institute of the Arts (2013.03 ~ 2020.7)
 - 💊 KH Information Academy (2021.02 ~ 2021.09)
-- 🌍 Team Projects (GoToGym), (WorkHome)
+- 🌍 Team Projects (GoToGym, WorkHome)
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=jchj108" height="165">
 
