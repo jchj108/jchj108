@@ -15,9 +15,9 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=jchj108" height="165">
 
 ### What I Like
-- 📺 Running
-- 🔵 Reading and Writing
-- 🍕 Cooking
+- 🏃 Running
+- 📚 Reading and Writing
+- 🐱 My Cat😂
 
  
 
