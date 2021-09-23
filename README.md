@@ -19,6 +19,7 @@
 - 🎓 Seoul Institute of the Arts (2013.03 ~ 2020.7)
 - 💊 KH Information Academy (2021.02 ~ 2021.09)
 - 🌍 Team Projects ([```GoToGym```](https://github.com/jchj108/Semi-project), [```WorkHome```](https://github.com/jchj108/Final-project))
+- :memo: [Tech Blog](https://github.com/jchj108/Semi-project)
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=jchj108" height="165">
 
