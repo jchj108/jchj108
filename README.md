@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Ji%20Chang-jin&fontSize=70&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=180&section=header&text=Ji%20Chang-jin&fontSize=50&fontColor=333333)
 ### Who Am I
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jchj108">
 
