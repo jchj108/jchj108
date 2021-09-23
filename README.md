@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Ji%20Chang-jin&fontSize=90)
-[![Solved.ac
-jchj108](http://mazassumnida.wtf/api/pastel/generate_badge?boj={handle})](https://solved.ac/{handle})
 
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jchj108">
 
 
 <!--
