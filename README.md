@@ -2,7 +2,7 @@
 ### Who Am I
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jchj108">
 
-- 🌱 I’m currently learning Java, Spring, [Algorithm](https://github.com/jchj108/Solving)
+- 🌱 I’m currently learning ```Java```, ```Spring```, [Algorithm](https://github.com/jchj108/Solving)
 - 🥇 I majored in Creative-writing
 - 🚅 I live in Anyang, Gyeonggi-do
 
