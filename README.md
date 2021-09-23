@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=180&section=header&text=Ji%20Chang-jin&fontSize=50&fontColor=333333)
+![header](https://capsule-render.vercel.app/api?type=slice&color=90d5eb&height=180&section=header&text=Ji%20Chang-jin&fontSize=50&fontColor=333333)
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
