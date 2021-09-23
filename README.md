@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Ji%20Chang-jin&fontSize=90)
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jchj108">
+<img align='right' src="http://mazassumnida.wtf/api/generate_badge?boj=jchj108">
 
 
 <!--
