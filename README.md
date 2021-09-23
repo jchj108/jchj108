@@ -3,20 +3,20 @@
 ### Who Am I
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jchj108">
 
-- 🌱 I’m currently learning Node, React, Algorithm
-- 🥇 I majored in Economics
-- 🚅 My hometown is Gimhae, Gyeongsangnam-do in Korea
+- 🌱 I’m currently learning Java, Spring, Algorithm
+- 🥇 I majored in creative writing
+- 🚅 I live in Anyang, Gyeongsangnam-do in Korea
 
 ### Experience
-- 🎓 Hanyang University , Economics(ERICA) (2014.03~ )
+- 🎓 Seoul-art University , Creative Writing (2013.03~ 2020.7)
 - 💊 ESTsoft, Sales team Intern (2018.07~2018.12)
 - 🌍 Kobe University, Economics(Exchange) (2019.04~2019.09)
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=jchj108" height="165">
 
 ### What I Like
-- 📺 Drama
-- 🔵 Game
-- 🍕 Pizza
+- 📺 Running
+- 🔵 Reading
+- 🍕 Cooking
 
  
 
