@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning Java, Spring, Algorithm
 - 🥇 I majored in creative writing
-- 🚅 I live in Anyang, Gyeongsangnam-do in Korea
+- 🚅 I live in Anyang, Gyeonggi-do in Korea
 
 ### Experience
-- 🎓 Seoul-art University , Creative Writing (2013.03~ 2020.7)
-- 💊 ESTsoft, Sales team Intern (2018.07~2018.12)
+- 🎓 Seoul Institute of the Arts (2013.03 ~ 2020.7)
+- 💊 KH Information Academy (2021.02 ~ 2021.09)
 - 🌍 Kobe University, Economics(Exchange) (2019.04~2019.09)
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=jchj108" height="165">
 
