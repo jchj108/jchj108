@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Ji%20Chang-jin&fontSize=90)
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jchj108">
 
 ### Who Am I
 - 🌱 I’m currently learning Node, React, Algorithm
 - 🥇 I majored in Economics
 - 🚅 My hometown is Gimhae, Gyeongsangnam-do in Korea
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jchj108">
 
 ### Experience
 - 🎓 Hanyang University , Economics(ERICA) (2014.03~ )
