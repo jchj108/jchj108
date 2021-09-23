@@ -4,18 +4,19 @@
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jchj108">
 
 - 🌱 I’m currently learning Java, Spring, Algorithm
-- 🥇 I majored in creative writing
-- 🚅 I live in Anyang, Gyeonggi-do in Korea
+- 🥇 I majored in Creative-writing
+- 🚅 I live in Anyang, Gyeonggi-do
 
 ### Experience
 - 🎓 Seoul Institute of the Arts (2013.03 ~ 2020.7)
 - 💊 KH Information Academy (2021.02 ~ 2021.09)
-- 🌍 Kobe University, Economics(Exchange) (2019.04~2019.09)
+- 🌍 Team Project (GoToGym) (2021.05~2019.07)
+- 🌍 Team Project (GoToGym) (2021.07~2019.09)
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=jchj108" height="165">
 
 ### What I Like
 - 📺 Running
-- 🔵 Reading
+- 🔵 Reading and Writing
 - 🍕 Cooking
 
  
