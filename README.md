@@ -7,16 +7,6 @@
 
 
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=haesoo9410" height="165">
-
-
-
-
-
-
-
-
-
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=jchj108" height="165">
 
 <!--
