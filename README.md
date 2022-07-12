@@ -8,6 +8,24 @@
 <img src="https://img.shields.io/badge/Oracle-47A248?style=flat-square&logo=Oracle&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp </p>
 
+### Who Am I
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jchj108">
+
+- 🌱 I’m currently learning ```Java```, ```Spring```, [```Algorithm```](https://github.com/jchj108/Solving)
+
+### Experience
+- 🌍 Team Projects ([```GoToGym```](https://github.com/jchj108/Semi-project), [```WorkHome```](https://github.com/jchj108/Final-project))
+
+### What I Like
+- 🏃 Running
+- 📚 Reading and Writing
+- 🐱 Cat
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=jchj108" height="165">
+
+
+<!--
+
 <!--
 **jchj108/jchj108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
